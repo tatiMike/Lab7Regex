@@ -1,0 +1,11 @@
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\bin\Debug\netcoreapp3.0\Lab7Regex.exe
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\bin\Debug\netcoreapp3.0\Lab7Regex.deps.json
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\bin\Debug\netcoreapp3.0\Lab7Regex.runtimeconfig.json
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\bin\Debug\netcoreapp3.0\Lab7Regex.runtimeconfig.dev.json
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\bin\Debug\netcoreapp3.0\Lab7Regex.dll
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\bin\Debug\netcoreapp3.0\Lab7Regex.pdb
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\obj\Debug\netcoreapp3.0\Lab7Regex.csprojAssemblyReference.cache
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\obj\Debug\netcoreapp3.0\Lab7Regex.AssemblyInfoInputs.cache
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\obj\Debug\netcoreapp3.0\Lab7Regex.AssemblyInfo.cs
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\obj\Debug\netcoreapp3.0\Lab7Regex.dll
+C:\Users\14192\source\repos\Lab7Regex\Lab7Regex\obj\Debug\netcoreapp3.0\Lab7Regex.pdb
