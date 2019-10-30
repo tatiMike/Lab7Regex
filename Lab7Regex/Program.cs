@@ -58,14 +58,14 @@ namespace Lab7Regex
         {
             string email = Console.ReadLine();
 
-            Match temp = Regex.Match(email, @"([A-za-z1-9]+@{1}[A-Za-z1-9]+\.{1}[A-Za-z1-9]{3,5}$)");
+            Match temp = Regex.Match(email, @"^[a-zA-Z0-9]{5,30}\@{1}[a-zA-Z0-9]{5,10}\.[a-z]{2,3}");
 
-            while (!Regex.IsMatch(email, @"([A-za-z1-9]+@{1}[A-Za-z1-9]+\.{1}[A-Za-z1-9]{3,5}$)"))
+            while (!Regex.IsMatch(email, @"^[a-zA-Z0-9]{5,30}\@{1}[a-zA-Z0-9]{5,10}\.[a-z]{2,3}"))
             {
                 Console.WriteLine("This is the wrong format. Please try again.");
                 email = Console.ReadLine();
             }
-            if ((Regex.IsMatch(email, @"([A-za-z1-9]+@{1}[A-Za-z1-9]+\.{1}[A-Za-z1-9]{3,5}$)")))
+            if ((Regex.IsMatch(email, @"^[a-zA-Z0-9]{5,30}\@{1}[a-zA-Z0-9]{5,10}\.[a-z]{2,3}")))
 
                 Console.WriteLine("Email is valid!");
                 return email;
